@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-react-app": "^4.0.3",
+    "react-livestream": "^1.0.11"
+  }
+}
