@@ -10,8 +10,7 @@ export default class Home extends Component {
             <div className="s-hero__content-about">
                 <h1>I'm Ben Clarke.</h1>
                 <h3>
-                I'm a Irish based <span>software engineer</span>, <span>football coach</span> and <span>part-time twitch streamer</span> creating awesome and
-                effective visual identities for companies of all sizes around the globe. Let's <a className="smoothscroll" href="#about">start scrolling </a> 
+                I'm a Irish based <span>software engineer</span>, <span>football coach</span> and <span>part-time twitch streamer</span>. I enjoy creating efficient things that people enjoy using. Let's <a className="smoothscroll" href="#about">start scrolling </a> 
                 and learn more <a className="smoothscroll" href="#about">about me</a>.
                 </h3>
                 <div className="s-hero__content-social">
