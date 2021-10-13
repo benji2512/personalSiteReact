@@ -10,7 +10,8 @@ export default class Footer extends Component {
               <li><a href="https://www.linkedin.com/in/ben-clarke-ie/"><i className="fab fa-linkedin" aria-hidden="true" /></a></li>
               <li><a href="https://twitter.com/benjithedev"><i className="fab fa-twitter" aria-hidden="true" /></a></li>
               <li><a href="https://instagram.com/benthedev"><i className="fab fa-instagram" aria-hidden="true" /></a></li>
-              <li><a href="https://twitch.tv/benthedev"><i className="fab fa-twitch" aria-hidden="true" /></a></li>
+              <li><a href="https://www.youtube.com/channel/UCMTVI1SRqBO75-xojcxd4mA"><i className="fab fa-youtube" aria-hidden="true" /></a></li>
+              <li><a href="https://www.youtube.com/channel/UCNdS-pvLi8bfWc9j2FnBFWw"><i className="fab fa-youtube" aria-hidden="true" /></a></li>
               </ul>
             </div>
             <div className="column large-7 medium-6 w-1000-stack ss-copyright">
