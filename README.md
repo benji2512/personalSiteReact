@@ -6,4 +6,5 @@ This is the react repo used to build [my portfolio website](https://benjimanclar
   - Maybe an iframe now that I am on Youtube????
 - [ ] Add a spotify section for recently played songs
 - [x] Fix landing paragraph
-- [ ] Change background to a picture that I took
+- [x] Change background to a picture that I took
+- [ ] Update experience section to include Browserstack
