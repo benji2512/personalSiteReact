@@ -29,14 +29,6 @@ export default class ContactUs extends Component {
                 </div> {/* end contact-block */}
                 </div>
                 <div className="column large-12 medium-6 tab-12">
-                <div className="contact-block">
-                    <h5 className="contact-block__header">
-                    Phone
-                    </h5>
-                    <p className="contact-block__content">
-                    <a href="tel:+1975432345">+353862245599</a>
-                    </p>
-                </div> {/* end contact-block */}
                 </div>
                 <div className="column large-12">
                 <a href="mailto:ben.clarke15@hotmail.com" className="mailtoui btn btn--primary h-full-width">Let's Talk</a>

@@ -11,11 +11,34 @@ export default class Resume extends Component {
             <div className="column large-9 tab-12">
             <div className="resume-block">
                 <div className="resume-block__header">
+                <h4 className="h3">BrowserStack</h4>
+                <p className="resume-block__header-meta">
+                    <span>Software Engineer</span> 
+                    <span className="resume-block__header-date">
+                    8/2021 – Current
+                    </span>
+                </p>
+                </div>
+                <p>
+                    <ul>
+                        <li>Part of the Production Engineering team.</li>
+                        <p>Team is responsible for the following:</p>
+                        <ul>
+                            <li>Handling support and ops tickets that affect customer experience.</li>
+                            <li>Diagnose and solve problems with devices in production environment.</li>
+                            <li>Help support other departments with knowledge sharing and common questions about production issues.</li>
+                            <li>Take part in sprint planning, retrospective meetings and various other agile activities to help keep our work environment agile.</li>
+                        </ul>
+                    </ul>
+                </p>
+            </div> {/* end resume-block */}
+            <div className="resume-block">
+                <div className="resume-block__header">
                 <h4 className="h3">Davy</h4>
                 <p className="resume-block__header-meta">
                     <span>Manual/Automation Tester </span> 
                     <span className="resume-block__header-date">
-                    4/2020 – 09/2020 
+                    4/2020 – 09/2020
                     </span>
                 </p>
                 </div>
