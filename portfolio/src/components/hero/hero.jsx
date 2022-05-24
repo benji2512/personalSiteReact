@@ -16,9 +16,8 @@ export default class Home extends Component {
                 <div className="s-hero__content-social">
                 <a href="https://www.linkedin.com/in/ben-clarke-ie/"><i className="fab fa-linkedin" aria-hidden="true" /></a>
                 <a href="https://twitter.com/benjithedev"><i className="fab fa-twitter" aria-hidden="true" /></a>
-                <a href="https://instagram.com/benthedev"><i className="fab fa-instagram" aria-hidden="true" /></a>
+                <a href="https://instagram.com/benjimanclarke96"><i className="fab fa-instagram" aria-hidden="true" /></a>
                 <a href="https://www.youtube.com/channel/UCMTVI1SRqBO75-xojcxd4mA"><i className="fab fa-youtube" aria-hidden="true" /></a>
-                <a href="https://www.youtube.com/channel/UCNdS-pvLi8bfWc9j2FnBFWw"><i className="fab fa-youtube" aria-hidden="true" /></a>
                 </div>
             </div> {/* end s-hero__content-about */}
             </div>
